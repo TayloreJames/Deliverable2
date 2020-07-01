@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageEncoder", "MessageEncoder\MessageEncoder.csproj", "{5FFE7472-0A34-44E5-859A-4E12B879C684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFE7472-0A34-44E5-859A-4E12B879C684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFE7472-0A34-44E5-859A-4E12B879C684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFE7472-0A34-44E5-859A-4E12B879C684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFE7472-0A34-44E5-859A-4E12B879C684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/bin/Debug/netcoreapp3.1/MessageEncoder.deps.json
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/bin/Debug/netcoreapp3.1/MessageEncoder.runtimeconfig.json
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/bin/Debug/netcoreapp3.1/MessageEncoder.runtimeconfig.dev.json
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/bin/Debug/netcoreapp3.1/MessageEncoder.dll
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/bin/Debug/netcoreapp3.1/MessageEncoder.pdb
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.csprojAssemblyReference.cache
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.AssemblyInfoInputs.cache
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.AssemblyInfo.cs
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.csproj.CoreCompileInputs.cache
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.dll
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.pdb
+/Users/TJames/Projects/MessageEncoder/MessageEncoder/obj/Debug/netcoreapp3.1/MessageEncoder.genruntimeconfig.cache
